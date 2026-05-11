@@ -1,6 +1,6 @@
 # Hi, I'm David👋
 
-## DevOps Engineer | Cloud & Infrastructure Enthusiast
+## DevOps Engineer | Building Scalable Cloud Infrastructure 
 
 I’m a DevOps Engineer focused on building reliable, scalable, and automated infrastructure on the cloud.  
 I enjoy working across cloud platforms, CI/CD pipelines, and containerized environments to improve deployment speed and system reliability.
