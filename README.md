@@ -7,8 +7,7 @@ I enjoy working across cloud platforms, CI/CD pipelines, and containerized envir
 
 ## 🛠️ Tech Stack || Tools
 
-- AWS (EC2, S3, IAM, VPC, RDS)
-- BAsic Azure / GCP
+- AWS (EC2, S3, IAM, VPC, RDS) || BAsic Azure / GCP
 - Docker
 - Kubernetes
 - GitHub Actions
